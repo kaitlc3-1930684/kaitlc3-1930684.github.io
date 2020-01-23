@@ -70,6 +70,7 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
+    text-align: center;
 }
 
 
@@ -80,6 +81,7 @@ ul {
 
 div{
     background-color: #8E41D5;
+    border-radius: 25px;
 }
 
 a{
